@@ -7,5 +7,6 @@
 REPORT Y_ABAPGIT_TESTING.
 
 WRITE: 'Test Program for GIT Intergraion.'.
-WRITE: 'Test Program for GIT Intergraion.'.gVcejvlnr
+WRITE: 'Test Program for GIT Intergraion.'.
+WRITE: 'Test Program for GIT Intergraion.Branch'.
  .
