@@ -11,4 +11,3 @@ WRITE: 'Test Program for GIT Intergraion.New Repository ' .
 WRITE: 'Test Program for GIT Intergraion.New Repository ' .
 WRITE: 'Test Program for GIT Intergraion.New Repository ' .
 WRITE: 'Test Program for GIT Intergraion.New Repository ' .
-WRITE: 'Test Program for GIT Intergraion.Final' .
